@@ -3,21 +3,21 @@
 import PackageDescription
 
 let package = Package(
-    name: AtomicCards,
+    name: "AtomicCards",
     platforms: [
         .iOS(.v16)
     ],
     products: [
         .library(
-            name: AtomicSDK,
-            targets: [AtomicSDK]),
+            name: "AtomicSDK",
+            targets: ["AtomicSDK"]),
         .library(
-            name: AtomicSwiftUISDK,
-            targets: [AtomicSwiftUISDK]),
+            name: "AtomicSwiftUISDK",
+            targets: ["AtomicSwiftUISDK"]),
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: AtomicSDK, path: iOS/AtomicSDK.xcframework),
-        .binaryTarget(name: AtomicSwiftUISDK, path: iOS/AtomicSwiftUISDK.xcframework)
+        .binaryTarget(name: "AtomicSDK", path: "iOS/AtomicSDK.xcframework"),
+        .binaryTarget(name: "AtomicSwiftUISDK", path: "iOS/AtomicSwiftUISDK.xcframework")
     ]
 )
