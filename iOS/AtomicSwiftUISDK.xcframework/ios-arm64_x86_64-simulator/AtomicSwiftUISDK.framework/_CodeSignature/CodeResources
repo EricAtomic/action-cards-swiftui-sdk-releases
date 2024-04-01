@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/AtomicSwiftUISDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		MAbdecXvSO021CDNr4welL5ut8Y=
+		797TIZUkmPJPQ7HHerhIhlOjAHo=
 		</data>
 		<key>Modules/AtomicSwiftUISDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		r6/EuNlNdGLboa4TbAb1rjuiC7c=
+		LIi4xednyssBQpcDsTPQMoxXShQ=
 		</data>
 		<key>Modules/AtomicSwiftUISDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>SDKInfo.plist</key>
 		<data>
-		+Uaa9A2yywmCMX17E+KliSCw4Zs=
+		Z7deJqc+CSRFTHucbwfrRTRpEVQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			55i4lIhU1JvvSs5IsPfJjM60UuphzOaPaIcrrDUjIbc=
+			0ftFc77lx+kPq3cgyApHMmsCD2qrnQsIriSHXWWGQ+A=
 			</data>
 		</dict>
 		<key>Modules/AtomicSwiftUISDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mlY2PBd5nS3+wfgGmJCNeh5oD8zJJBYh+CRjbfRTDqA=
+			pl8/TM2AuvHrbfWzsBP3u0LzA8UO1w8BMRCPOy7+2AY=
 			</data>
 		</dict>
 		<key>Modules/AtomicSwiftUISDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pBGzepQANAEB0BfLrL7Ne445tRyfz25liWzRdo8Hvlo=
+			6iB5Ud69dKBh5EpIthZ3wfpRy7sVdN0xLSkAxTmslgw=
 			</data>
 		</dict>
 	</dict>
